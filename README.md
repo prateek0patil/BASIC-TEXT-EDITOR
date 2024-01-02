@@ -1,1 +1,1 @@
-# CodeClause_Basic-Text-Editor
+Basic-Text-Editor
